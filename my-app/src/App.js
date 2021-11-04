@@ -21,7 +21,7 @@ function App() {
    }else{
      setResult(formularKelvin + 'K')
    }
-   console.log(result);
+   
  }
   return (
     <div className='container'>
